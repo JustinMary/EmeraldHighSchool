@@ -1,0 +1,6 @@
+body {
+	background-color: skyblue;
+}
+#InputSurname, #InputFirstname, #Inputmiddlename {
+	width: 100%;
+}
